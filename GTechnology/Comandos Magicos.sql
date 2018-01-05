@@ -13,3 +13,6 @@ commit;
 
 execute GeometryQuery.Generate;
 commit;
+
+execute StaticPost.Generate;
+commit;
